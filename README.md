@@ -2,14 +2,14 @@
 
 > This is a **Sanity Studio v3** plugin.
 
-Icon picker for Sanity which let you select icons from a set of icon providers.
+Icon picker for Sanity which let you select icons from a set of icon providers, with framework7 support removed for compatibility with nextjs.
 
 ![image](https://github.com/christopherafbjur/sanity-plugin-icon-picker/blob/main/promo.png?raw=true)
 
 ## Installation
 
 ```sh
-npm install sanity-plugin-icon-picker
+npm install sanity-plugin-icon-picker-no-framework7
 ```
 
 ## Usage

@@ -1,7 +1,7 @@
 {
-  "name": "sanity-plugin-icon-picker",
+  "name": "sanity-plugin-icon-picker-no-framework7",
   "version": "3.0.2",
-  "description": "An Icon Picker plugin for Sanity",
+  "description": "An Icon Picker plugin for Sanity, with framework7 support removed",
   "keywords": [
     "sanity",
     "sanity-plugin",
@@ -10,16 +10,16 @@
     "custom input",
     "sanity field"
   ],
-  "homepage": "https://github.com/christopherafbjur/sanity-plugin-icon-picker#readme",
+  "homepage": "https://github.com/rizerphe/sanity-plugin-icon-picker-no-framework7#readme",
   "bugs": {
-    "url": "https://github.com/christopherafbjur/sanity-plugin-icon-picker/issues"
+    "url": "https://github.com/rizerphe/sanity-plugin-icon-picker-no-framework7/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christopherafbjur/sanity-plugin-icon-picker.git"
+    "url": "git+https://github.com/rizerphe/sanity-plugin-icon-picker-no-framework7.git"
   },
   "license": "MIT",
-  "author": "Christopher Af Bjur",
+  "author": "rizerphe",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -89,6 +89,5 @@
   },
   "engines": {
     "node": ">=14"
-  },
-  "sanityExchangeUrl": "https://www.sanity.io/plugins/icon-picker"
+  }
 }
