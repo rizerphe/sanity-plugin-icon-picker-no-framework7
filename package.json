@@ -53,7 +53,6 @@
   "dependencies": {
     "@sanity/incompatible-plugin": "^1.0.4",
     "decamelize": "3.2.0",
-    "framework7-icons": "^5.0.5",
     "react-icons": "^4.8.0",
     "react-virtualized-auto-sizer": "^1.0.5",
     "react-window": "^1.8.6",

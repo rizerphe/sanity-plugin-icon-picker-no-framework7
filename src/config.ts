@@ -7,10 +7,6 @@ export const PROVIDERS = {
     prefix: 'fi',
     title: 'Feather Icons',
   },
-  framework7: {
-    prefix: 'f7',
-    title: 'Framework7',
-  },
   fontAwesome: {
     prefix: 'fa',
     title: 'Font Awesome',

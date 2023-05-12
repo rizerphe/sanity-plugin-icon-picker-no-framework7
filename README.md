@@ -48,7 +48,7 @@ Define which icon providers you want to use by providing their provider id in th
     name: "icon",
     type: "iconPicker",
     options: {
-        providers: ["f7", "fa", "mdi", "sa", "hi", "fi", "si"]
+        providers: ["fa", "mdi", "sa", "hi", "fi", "si"]
     }
 }
 ```
@@ -87,7 +87,6 @@ Filter out a subset of icons to be used by specifying a filter. A filter can be 
 
 | Provider                | Prefix | Homepage                                       |
 | :---------------------- | :----- | :--------------------------------------------- |
-| `Framework7`            | `f7`   | https://framework7.io/icons/                   |
 | `Font Awesome`          | `fa`   | https://fontawesome.com/                       |
 | `Material Design Icons` | `mdi`  | http://google.github.io/material-design-icons/ |
 | `Sanity Icons`          | `sa`   | https://www.sanity.io/                         |
