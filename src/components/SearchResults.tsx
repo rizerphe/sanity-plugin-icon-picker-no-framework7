@@ -89,7 +89,7 @@ const SearchResults = ({results, selected, onSelect, filter, loading, query}: IS
       {!loading && !!filtered.length && (
         <AutoSizer onResize={onResize}>
           {({height, width}) => (
-            <List height={height} itemCount={filtered.length} itemSize={45} width={width}>
+            <List height={height || 100} itemCount={filtered.length} itemSize={45} width={width || 100}>
               {Row}
             </List>
           )}
